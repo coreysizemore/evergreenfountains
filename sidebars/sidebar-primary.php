@@ -19,6 +19,16 @@
 
 	<div class="sidebar">
 		
+		<div class="marketing_section">
+		
+		<img src="http://www.coreysizemore.com/evergreenfountains/wp-content/uploads/2018/01/Evergreen_Fountains042-195x300.jpg" alt="" width="195" height="300" class="alignright size-medium wp-image-233" />
+
+<strong>Kathie Walker</strong>
+Marketing Specialist
+<a href="mailto:KWALKER@EVERGREENFOUNTAINS.COM" rel="noopener" target="_blank">Email Me!</a>
+
+		</div>
+		
 		<?php 
 				
 			if( get_field('display_office_information', 'options')):
