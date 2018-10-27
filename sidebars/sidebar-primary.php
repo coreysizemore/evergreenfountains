@@ -21,7 +21,7 @@
 		
 		<div class="marketing_section">
 		
-		<img src="http://www.coreysizemore.com/evergreenfountains/wp-content/uploads/2018/01/Evergreen_Fountains042-195x300.jpg" alt="" width="195" height="300" class="alignright size-medium wp-image-233" />
+		<img src="http://www.evergreenfountains.com/wp-content/uploads/2018/01/Evergreen_Fountains042-195x300.jpg" alt="" width="195" height="300" class="alignright size-medium wp-image-233" />
 
 <strong>Kathie Walker</strong>
 Marketing Specialist
